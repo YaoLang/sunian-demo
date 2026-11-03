@@ -1,0 +1,10 @@
+.worktrees/
+game/cache/
+game/saves/
+*.rpyc
+log.txt
+errors.txt
+.superpowers/
+tools/__pycache__/
+playtest-recordings/
+game/images/_opaque_backup/
